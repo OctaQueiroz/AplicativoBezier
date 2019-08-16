@@ -1,0 +1,12 @@
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\bin\Debug\AplicativoBezier.exe.config
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\bin\Debug\AplicativoBezier.exe
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\bin\Debug\AplicativoBezier.pdb
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\bin\Debug\AplicativoBezier.xml
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\obj\Debug\AplicativoBezier.vbprojAssemblyReference.cache
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\obj\Debug\AplicativoBezier.telaPrincipal.resources
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\obj\Debug\AplicativoBezier.Resources.resources
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\obj\Debug\AplicativoBezier.vbproj.GenerateResource.cache
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\obj\Debug\AplicativoBezier.vbproj.CoreCompileInputs.cache
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\obj\Debug\AplicativoBezier.exe
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\obj\Debug\AplicativoBezier.xml
+C:\Users\octaq\Dropbox\Materias Atuais\Computação Gráfica\TP_02\AplicativoBezier\AplicativoBezier\obj\Debug\AplicativoBezier.pdb
